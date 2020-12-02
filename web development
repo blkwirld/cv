@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <title>Desmond's Personal Site</title>
+</head>
+
+<body>
+  <table cellspacing="20">
+    <td><img src="spaceboy.jpg"></td>
+    <td>
+      <h1>Desmond Barber</h1>
+      <p><em>Student of <strong><a href="https://www.udemy.com/course/the-complete-web-development-bootcamp/learn/lecture/12287450#overview">Angela Yu's Udemy course</a></strong>.</em></p>
+      <p>I am a web developer and songwriter</p>
+    </td>
+  </table>
+  <hr>
+  <h3>Education</h3>
+  <ul>
+    <li>Web Development</li>
+    <li>Ex Domestic Terrorist</li>
+  </ul>
+  <h3>Work Experience</h3>
+  <table cellspacing "10">
+    <thead>
+      <tr>
+        <th>Dates</th>
+        <th>Work</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>2017-2021</td>
+        <td>Cinemark Cashier</td>
+      </tr>
+    </tbody>
+  </table>
+  <hr>
+  <h3>Skills</h3>
+  <table cellspacing "10">
+    <tr>
+      <td>Music Production</td>
+      <td>&#11088;&#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>Web Development</td>
+      <td>&#11088;&#11088;&#11088;&#11088;</td>
+    </tr>
+    <tr>
+      <td>Graphic Design</td>
+      <td>&#11088;&#11088;</td>
+    </tr>
+  </table>
+
+  <hr>
+  <a href="hobbies.html">My Hobbies</a>
+  <a href="contact-me.html">Contact Me</a>
+</body>
+
+</html>
